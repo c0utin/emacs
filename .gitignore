@@ -1,0 +1,13 @@
+*~
+*.swp
+*.swo
+.\#*
+
+eln-cache/
+elpa/
+auto-save-list/
+*emacs.d#
+ 
+*.elc
+*.eln
+
